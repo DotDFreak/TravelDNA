@@ -26,6 +26,7 @@ project.fragment.lock.json
 # ASP.NET development certificates
 *.pfx
 *.publishsettings
+src/TravelDNA.API/appsettings.Development.json
 
 # Node.js and frontend dependencies
 node_modules/
