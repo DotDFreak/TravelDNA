@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TravelDNA.Admin/TravelDNA.Admin.csproj" />
+    <Project Path="src/TravelDNA.Api/TravelDNA.Api.csproj" />
+    <Project Path="src/TravelDNA.Core/TravelDNA.Core.csproj" />
+    <Project Path="src/TravelDNA.Infrastructure/TravelDNA.Infrastructure.csproj" />
+  </Folder>
+</Solution>
