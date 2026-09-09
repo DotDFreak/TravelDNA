@@ -37,6 +37,7 @@ pnpm-debug.log*
 lerna-debug.log*
 web/dist/
 web/dist-ssr/
+web/.env.local
 *.local
 
 # IDE and operating system files
